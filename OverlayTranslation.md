@@ -43,7 +43,7 @@ Passen Sie Ihre Chat-Erfahrung an.
   - Groß
   - Fett
 
-- **Emoji-Abkürzungen (z.B. <:fire:> = 🔥)**
+- **Emoji-Abkürzungen (z.B. :​fire: = 🔥)**
   - Aktiviert
   - Deaktiviert
 
