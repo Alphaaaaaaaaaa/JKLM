@@ -218,7 +218,7 @@ Verwalten Sie verschiedene Einstellungen.
   - Zurücksetzen
 
 ### Vorschläge / Bugs:
-- (Discord von PannH (Ersteller dieses Overlays))[https://discord.com/users/667302589213310997]
-- (Discord von Macadelic (Entwickler bei JKLM))[https://discord.com/users/212984930802728960]
+- Discord von PannH (Ersteller dieses Overlays)
+- Discord von Macadelic (Entwickler bei JKLM)
 - (offizieller JKLM Discord-Server)[https://jklm.fun/discord]
 - (GitHub)[https://github.com/PannH/partyplus-overlay]
