@@ -1,4 +1,7 @@
-# Benachrichtigungen am Desktop
+# Overlay Translations
+German Translations for the JKLM integrated Overlay.
+
+## Benachrichtigungen am Desktop
 Erhalten Sie Desktop-Benachrichtigungen für bestimmte Ereignisse.
 
 ## Spielende
