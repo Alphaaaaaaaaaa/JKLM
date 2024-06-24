@@ -1,227 +1,46 @@
-# Overlay Translations
-German Translations for the JKLM integrated Overlay.
+### Behandlung von Krebserkrankungen
 
-## Benachrichtigungen am Desktop
-Erhalten Sie Desktop-Benachrichtigungen für bestimmte Ereignisse.
+**Situation**:
+- Diagnose und Behandlung stellen eine neue, herausfordernde Situation dar.
+- Patienten empfinden einen Verlust der Kontrolle über ihr Leben, fühlen sich abhängig und ohnmächtig.
 
-## Spielende
-- Immer
-- Inaktives Fenster
-- Nie
+**Auswirkungen**:
+- Persönliche Reaktionen können stark variieren:
+  - **Optimismus**: Wahrnehmung einer Chance, es zu schaffen.
+  - **Sorgen**: Bedenken über die vollständige Entfernung des Krebses.
+  - **Ängste**: Befürchtungen über die Risiken der Behandlung.
+  - **Zweifel**: Zweifel am Vertrauen in die Behandlung.
+  - **Extreme Sorgen**: Gesundheitsbedenken (z.B. Angst vor Radioaktivität).
+  - **Positive Einstellung**: Glaube an den Erfolg der Behandlung.
 
-## Erwähnung im Chat
-- Immer
-- inaktives Fenster
-- Nie
+- Emotionale Reaktionen umfassen:
+  - Depression
+  - Angst und Erregtheit
+  - Schmerz und Zielstrebigkeit
+  - Kontrollbedürfnisse
 
----
-
-## 💬 Chat
-Passen Sie Ihre Chat-Erfahrung an.
-
-- **Klickbare Links**
-  - Erwähnung (durch Kommata getrennt): 
-  - Groß- und Kleinschreibung sind egal.
-  
-- **Zeitstempel-Format**
-  - Standard (hh:mm)
-  - Komplett (hh:mm:ss)
-  - Ältere Nachrichten werden nicht von der Änderung betroffen sein.
-  
-- **Avatare anzeigen**
-  - Aktiviert
-  - Deaktiviert
-  
-- **Schriftart**
-  - Varela Round (Standard)
-  - etc.
-  
-- **Schriftstärke**
-  - Klein
-  - Normal
-  - Mittel
-  - Groß
-  - Fett
-
-- **Emoji-Abkürzungen (z.B. :​fire: = 🔥)**
-  - Aktiviert
-  - Deaktiviert
+**Anforderungen an die Bewältigung**:
+- Anpassung an die chronische Erkrankung und die erforderlichen Behandlungsmaßnahmen.
+- Treffen von Entscheidungen über den weiteren Behandlungsverlauf.
+- Integration der Behandlungen in den Lebensalltag.
+- Aufrechterhaltung des familiären oder partnerschaftlichen Zusammenhalts durch offene Gespräche.
+- Innere Bewältigung der Ambivalenz gegenüber der laufenden onkologischen Behandlung.
 
 ---
 
-## 📊 Spielstatistiken
-Passen Sie die Spielstatistiken an.
+### Fünf Unterstützungsmaßnahmen während der Krebserkrankungsbehandlung
 
-- **Tabellenansicht**
-  - Aktiviert
-  - Deaktiviert
-  
-- **Freie Tabellenposition**
-  - Aktiviert
-  - Deaktiviert
-  
-- **Angezeigte Statistiken**
-  - Wörter
-  - Alpha
-  - Zusammengesetzte Wörter (MC)
-  - Lange Wörter
-  - Leben (gewonnene / verlorene)
-  - Zeit ohne ein Leben zu verlieren (SM)
-  - Schreibgeschwindigkeit
-  - Reaktionszeit
+1. **Psychologische Beratung und Therapie**:
+   - Unterstützung bei der Bewältigung emotionaler Belastungen und Angstbewältigung.
 
----
+2. **Ernährungsberatung**:
+   - Hilfestellung bei der Anpassung der Ernährung zur Unterstützung des Körpers während der Behandlung.
 
-## ⌨️ Tastatur
-Verwalte deine Tasten(-kombinationen).
+3. **Physiotherapie**:
+   - Förderung der körperlichen Fitness und Unterstützung bei der Wiederherstellung von Beweglichkeit und Kraft.
 
-- **Zug aussetzen**
-  - Aktiviert
-  - Deaktiviert
-  - Enter Bestätigen / Escape Abbrechen
-  
-- **Spiel verlassen**
-  - Aktiviert
-  - Deaktiviert
-  - Enter Bestätigen / Escape Abbrechen
-  
-- **Namen durchklicken**
-  - Aktiviert
-  - Deaktiviert
+4. **Schmerzmanagement**:
+   - Einsatz von Medikamenten und Techniken zur effektiven Kontrolle und Linderung von Schmerzen.
 
----
-
-## 💻 Spielbefehle
-Verwalten Sie die Tastenkombinationen für Spielbefehle.
-
-- **Befehle**
-  - Text
-  - Enter Bestätigen / Escape Abbrechen
-  - Befehl hinzufügen
-  
----
-
-## 🎨 Anpassung
-Passe die Benutzeroberfläche nach deinen Wünschen an.
-
-- **Kopfzeilenhintergrund**
-  
-- **Kopfzeilentext**
-  
-- **Chatleistenhintergrund**
-  
-- **Nicknamen im Chat**
-  
-- **Chatnachrichten**
-  
-- **Systemnachrichten im Chat**
-  
-- **Klickbare Links im Chat**
-  
-- **Erwähnungshintergrund im Chat**
-  
-- **Verbleibende Buchstaben des Bonusalphabets**
-  
-- **Verwendete Buchstaben des Bonusalphabets**
-  
-- **Name der aktuellen Spieler im Spiel**
-  
-- **Name der abwesenden Spieler im Spiel**
-  
-- **Wort des aktuellen Spielers**
-  
-- **Worte der anderen Spieler**
-  
-- **Silbe in Wörtern**
-  
-- **Lebens-Emoji**
-  
-- **Todes-Emoji**
-  
-- **Sieger-Emoji (aktualisieren, um auf den neuesten Stand zu kommen)**
-  
-- **Chatleistenbreite (in Pixeln)**
-  - 350
-
----
-
-## 🖼️ Hintergrund des Spiels
-Passe den Hintergrund des Spiels an.
-
-- **Aktualisiere die Seite, um die Änderungen anzuwenden.**
-  
-- **Typ**
-  - Verlauf
-  - Farbe
-  - Onlinebild
-
-- **Verlauf**
-  
-- **Farbe**
-  
-- **URL des Bildes**
-  - https://link.com/bild.jpeg
-  
-- **Innere Schatten**
-  - Aktiviert
-  - Deaktiviert
-
----
-
-## 🎥 Streamer-Modus
-Verwalte den Streamer-Modus, um potenziell sensible Informationen zu verbergen.
-
-- **Avatare im Spiel ausblenden**
-  - Aktiviert
-  - Deaktiviert
-  
-- **Nicknamen im Spiel ausblenden**
-  - Aktiviert
-  - Deaktiviert
-
----
-
-## 🏋️ Trainingsmodus
-Der Trainingsmodus ermöglicht es, Ihre Beherrschung einer Wortliste zu bewerten.
-
-- **Um eine Liste zu importieren:** Textdatei (.txt, .text), ein Wort pro Zeile.
-  
-- **Liste ausgewählt**
-  - Keine
-  
-- **Liste importieren**
-  - Keine ausgewählt
-  
-- **Ausgewählte Liste löschen**
-  - Löschen
-  
-- **Ausgewählte Liste exportieren**
-  - Exportieren
-  
-- **Erzwinge die Verwendung von Wörtern aus der Liste**
-  - Aktiviert
-  - Deaktiviert
-  
-- **Nachrichten**
-  - Aktiviert
-  - Deaktiviert
-
----
-
-## 🔧 Sonstiges
-Verwalten Sie verschiedene Einstellungen.
-
-- **Einstellungen importieren**
-  - Keine ausgewählt
-  
-- **Einstellungen exportieren**
-  - Exportieren
-  
-- **Einstellungen zurücksetzen**
-  - Zurücksetzen
-
-### Vorschläge / Bugs:
-- [Discord von PannH (Ersteller dieses Overlays)](https://discord.com/users/667302589213310997)
-- [Discord von Macadelic (Entwickler bei JKLM)](https://discord.com/users/212984930802728960)
-- [offizieller JKLM Discord-Server](https://jklm.fun/discord)
-- [GitHub](https://github.com/PannH/partyplus-overlay)
+5. **Selbsthilfegruppen**:
+   - Austausch und Unterstützung durch andere Betroffene, um Erfahrungen und Bewältigungsstrategien zu teilen.
